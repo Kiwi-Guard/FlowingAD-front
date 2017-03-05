@@ -1,5 +1,11 @@
 # FlowingAD-front
 
+## Setup Git
+```
+git clone https://github.com/Kiwi-Guard/FlowingAD-front.git
+cd ./FlowingAD-front/
+```
+
 ## Setup React Native
 ```
 # Install homebrew if no
